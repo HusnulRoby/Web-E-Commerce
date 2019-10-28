@@ -1,0 +1,5 @@
+D:\vb\projectTA1\dataTier\bin\Debug\dataTier.dll
+D:\vb\projectTA1\dataTier\bin\Debug\dataTier.pdb
+D:\vb\projectTA1\dataTier\obj\Debug\dataTier.csprojResolveAssemblyReference.cache
+D:\vb\projectTA1\dataTier\obj\Debug\dataTier.dll
+D:\vb\projectTA1\dataTier\obj\Debug\dataTier.pdb

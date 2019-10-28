@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "projectTA1", "projectTA1\projectTA1.csproj", "{13CD99B5-C366-4E5F-988B-D0F298D2654B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Query", "Query\Query.csproj", "{77DF67CA-4377-4557-9A66-021535920AF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dataTier", "dataTier\dataTier.csproj", "{58BF6BB1-3BF6-4457-B96D-3C1533285EFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13CD99B5-C366-4E5F-988B-D0F298D2654B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13CD99B5-C366-4E5F-988B-D0F298D2654B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13CD99B5-C366-4E5F-988B-D0F298D2654B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13CD99B5-C366-4E5F-988B-D0F298D2654B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77DF67CA-4377-4557-9A66-021535920AF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77DF67CA-4377-4557-9A66-021535920AF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77DF67CA-4377-4557-9A66-021535920AF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77DF67CA-4377-4557-9A66-021535920AF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58BF6BB1-3BF6-4457-B96D-3C1533285EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58BF6BB1-3BF6-4457-B96D-3C1533285EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58BF6BB1-3BF6-4457-B96D-3C1533285EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58BF6BB1-3BF6-4457-B96D-3C1533285EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

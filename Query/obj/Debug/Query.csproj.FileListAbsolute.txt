@@ -1,0 +1,7 @@
+D:\vb\projectTA1\Query\bin\Debug\Query.dll
+D:\vb\projectTA1\Query\bin\Debug\Query.pdb
+D:\vb\projectTA1\Query\bin\Debug\dataTier.dll
+D:\vb\projectTA1\Query\bin\Debug\dataTier.pdb
+D:\vb\projectTA1\Query\obj\Debug\Query.csprojResolveAssemblyReference.cache
+D:\vb\projectTA1\Query\obj\Debug\Query.dll
+D:\vb\projectTA1\Query\obj\Debug\Query.pdb
